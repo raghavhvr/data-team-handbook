@@ -1,4 +1,4 @@
-Whether you're an IC, manager, or director everyone plays a role in running a successful data team. But it can feel overwhelming learning all the skills required to keep a data team on track.
+Whether you're an IC (Individual Contributor), manager, or director everyone plays a role in running a successful data team. However, it can feel overwhelming to learn all the skills required to keep a data team on track.
 
 You can try to learn everything on the fly and by yourself but the more you can learn from others whether it be mentors, videos, books, articles, etc.
 
